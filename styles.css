@@ -56,3 +56,19 @@ h3 {
     font-weight: 400;
     color: #000000;
 }
+
+@media screen and (max-width: 768px) {
+
+    body {
+        color: var(--cor-primaria);
+        font-family: var(--fonte-principal);
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+    
+    h3 {
+        font-size: 1.7em;
+    }
+}
