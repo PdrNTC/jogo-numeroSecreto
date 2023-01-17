@@ -52,4 +52,7 @@ h3 {
     background-color: var(--cor-primaria);
     border-radius: 5px;
     margin-top: 20px;
+    font-size: 2em;
+    font-weight: 400;
+    color: #000000;
 }
