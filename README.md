@@ -5,8 +5,7 @@
 # Objetivo do game
 <p align="center">Utilizando reconhecimento de voz, cada jogador deverá dizer com o microfone um número entre o intervalo do jogo, e com isso será apresentado dicas se está perto ou longe de acertar o número aleátorio.</p>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
-<p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
+[Screenshot da tela do jogo](https://uploaddeimagens.com.br/images/004/301/895/original/sc-game.png?1673966601)
 
 ## Tecnologias
 * HTML
